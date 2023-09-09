@@ -1,0 +1,24 @@
+DELFINO, BRYAN KYLE V.		CMSC 100 - Web Programming
+2021-02141			
+Laboratory Section EF-2L
+
+
+For CMSC 100, my expectations are the following:
+
+
+- I expect the course to be a challenge. With this challenge, it will make us skilled enough to do web programming.
+
+- I expect to learn new technologies related to web programming. Currently, what I have in my web dev repertoire as a Computer Science student are the ability to program
+  in JavaScript (let's include HTML & CSS). With this course, I expect to improve my skills in these languages plus to know more technologies like the MERN stack which 
+  is very important in today's web development scene.
+
+- I expect this class to be friendly to those who are new to the concept of web development. With this being said, I expect the information given to us will be as easily
+  digestable as possible so that student's like me can retain the knowledge given.
+
+- I expect this class to improve my cooperation skills and prepare me for the industry and future CMSC classes.
+
+- Lastly, I expect this course to be fun and interesting. The lecture class is already fun and interesting since it is fascinating to hear stories from someone in the 
+  first batch of CMSC students in UPLB. It is also fascinating to see the technology evolve throughout the years. I hope this laboratory class is fun and interesting 
+  with its more hands-on approach.
+
+  
