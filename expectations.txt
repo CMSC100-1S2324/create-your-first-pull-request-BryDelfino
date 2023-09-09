@@ -22,3 +22,7 @@ For CMSC 100, my expectations are the following:
   with its more hands-on approach.
 
   
+
+Christian Rojano's Comments:
+
+- First off, I completely agree with all your expectations in this course and surely the whole class will agree too as it sums up into great expectations. In the first lecture class, our class really had a journey and dive into the developments of web programming as we were presented with first-hand experience of the astonishing improvements in the said technologies. Also, I expect that our class will have fun with the hands-approach of web programming while acquiring proficiency in the programming languages and frameworks mainly the MERN stack to be able to have a triumphant journey and have manifested great teamwork skills.
